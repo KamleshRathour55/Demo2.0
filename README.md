@@ -1,2 +1,2 @@
 # Demo2.0
-this is also a demo repo
+this is also a demo repo of git and github class
